@@ -1,0 +1,5 @@
+E:\job hunt\UnitTestingCourse\SimpleCalculator.UnitTests\obj\Debug\net6.0\SimpleCalculator.UnitTests.csproj.AssemblyReference.cache
+E:\job hunt\UnitTestingCourse\SimpleCalculator.UnitTests\obj\Debug\net6.0\SimpleCalculator.UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+E:\job hunt\UnitTestingCourse\SimpleCalculator.UnitTests\obj\Debug\net6.0\SimpleCalculator.UnitTests.AssemblyInfoInputs.cache
+E:\job hunt\UnitTestingCourse\SimpleCalculator.UnitTests\obj\Debug\net6.0\SimpleCalculator.UnitTests.AssemblyInfo.cs
+E:\job hunt\UnitTestingCourse\SimpleCalculator.UnitTests\obj\Debug\net6.0\SimpleCalculator.UnitTests.csproj.CoreCompileInputs.cache
